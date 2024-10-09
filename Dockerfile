@@ -1,7 +1,7 @@
 # Docker-tftpd
 FROM ubuntu:14.04
 
-MAINTAINER Erik Kaareng-Sunde esu@enonic.com
+MAINTAINER Gun&rose
 
 # Build container
 #   docker build -t drerik/tftpd .
